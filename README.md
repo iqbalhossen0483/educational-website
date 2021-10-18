@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# This an educational website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. In this project, I used tailwind css framwork.
+2. I created a online couchine center.
+3. This wonderfully customised.
 
 ## Available Scripts
 
