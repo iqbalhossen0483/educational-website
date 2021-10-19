@@ -8,7 +8,8 @@
         "price": 199,
         "totalRating": 220,
         "view": 21547,
-        "time": "0 hr 51 min"
+        "time": "0 hr 51 min",
+        "description": "This practice material is designed for two people working together. Find a study partner to help you practise. This might be a teacher or a friend. Take the three parts of this practice test one after another without a break to make your practice as realistic as possible.Remember, you need to speak fluently, clearly and accurately. It is important to say as much as you can and to be spontaneous. Do not prepare answers in advance. Record yourself if you can so that you can go back and check your performance."
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "img": "https://ghoorilearning.com/uploads/images/a42533f02a1ea4a00b5ff707cea9a335-medium.jpg",
         "totalRating": 200,
         "view": 29547,
-        "time": "4 hr 23 min"
+        "time": "4 hr 23 min",
+        "description": "These free online English grammar courses will help lay the groundwork for effective communication by enhancing your accuracy in using the language. Correct grammar is the most important element of English but the most complex and difficult to study. Start learning its proper usage and demonstrate your English skills to enhance your personal, career, and social development."
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "price": 399,
         "totalRating": 350,
         "view": 11747,
-        "time": "1 hr 23 min"
+        "time": "1 hr 23 min",
+        "description": "We live in a wondrous age my friends. Knowledge and learning can be obtained with a few clicks of the mouse, opening education and intellectual stimulation to anyone with a scholarly spirit. Whether you want to start with the marketing basics or you're more advanced, there's something for everyone here. Below is a list of our favorite online marketing courses, most of which are free or very nearly free. Let the learning begin!"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "price": 89,
         "totalRating": 250,
         "view": 1747,
-        "time": "2 hr 47 min"
+        "time": "2 hr 47 min",
+        "description": "Benefit from digitization and the positive economic situation in Germany. Earn your BA now. Choose a global standard arts programme. Enrol in one of BSBI's UCA-partnered programmes. Campus In Germany. Business School. Flexible Payment. Expert Tutors."
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
         "price": 339,
         "totalRating": 550,
         "view": 19747,
-        "time": "1 hr 7 min"
+        "time": "1 hr 7 min",
+        "description": "Japanese language has become extremely popular among learners in recent years, since it is the best way to explore one of the richest and most mysterious cultures of the modern East. This course is  aimed at those who are interested in understanding Japanese way of thinking and view of the world through learning the language. Course materials are provided by the teaching staff from the Department of Japan Studies."
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
         "price": 229,
         "totalRating": 750,
         "view": 20179,
-        "time": "1 hr 27 min"
+        "time": "1 hr 27 min",
+        "description": "You will be allowed 1 hour to complete two tasks in the IELTS Academic Writing test. The two parts of this practice Writing test are presented on two separate web pages. Make sure you move swiftly from one page to the next so that your practice is as realistic as possible. If you prefer to work offline, download the test paper.In the actual test you will do your writing in an answer booklet."
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
         "price": 129,
         "totalRating": 330,
         "view": 18179,
-        "time": "4 hr 27 min"
+        "time": "4 hr 27 min",
+        "description": "There are plenty of useful skills that kids can learn to give them a leg up in life, but few are as flexible and fun as the ability to code. Many free coding websites advertise that their coding tutorials effectively teach coding, but they’re often aimed at adults hoping to change careers and aren’t effective for kids. Paid coding websites often require you to take a risk on their program without knowing if it’s a good fit. When it comes down to it, you just want to know which free and paid coding websites actually work.That’s where we’re here to help! Our team of coding experts has scoured the internet to find the absolute best ways to introduce your kids to coding, coming up with this list of the 22 best free and paid coding websites for kids."
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
         "price": 79,
         "totalRating": 630,
         "view": 34179,
-        "time": "1 hr 27 min"
+        "time": "1 hr 27 min",
+        "description": "Interpersonal skills are sometimes called employability skills. The word “employability” is a tip-off about the importance of interpersonal skills: they’re so crucial that hiring managers really don’t want to hire candidates without them. Many careers require consistent, if not constant, interaction with other people. This is true even for jobs that would seem to favor introverted personalities and independent work styles. For example, even if you’re a software engineer, writer, or statistician, you still need to be able to communicate and collaborate with your team."
     },
     {
         "id": 9,
@@ -96,6 +104,7 @@
         "price": 99,
         "totalRating": 430,
         "view": 11179,
-        "time": "2 hr 27 min"
+        "time": "2 hr 27 min",
+        "description": "Here you can find activities to practise your speaking skills. You can improve your speaking by noticing the language we use in different situations and practising useful phrases. The self-study lessons in this section are written and organised according to the levels of the Common European Framework of Reference for languages (CEFR). There are videos of different conversations at work and interactive exercises that practise the speaking skills you need to get ahead at work and communicate in English. The videos help you practise saying the most useful language and the interactive exercises will help you remember and use the phrases."
     }
 ]
