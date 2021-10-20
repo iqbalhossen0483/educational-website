@@ -22,7 +22,7 @@ const Couse = (props) => {
                 <div>
                     <i className="far fa-eye"></i> {view}
                     <span className="ml-7">
-                        <i class="far fa-clock"></i> {time}
+                        <i className="far fa-clock"></i> {time}
                     </span>
                 </div>
                 <Link to={`/services/details/${id}`} className="flex justify-center mt-5">

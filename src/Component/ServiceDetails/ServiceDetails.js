@@ -1,7 +1,6 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import Rating from 'react-rating';
 import { useParams } from 'react-router';
 import CourseDetailsComponent from './CourseDetailsComponent';
 
