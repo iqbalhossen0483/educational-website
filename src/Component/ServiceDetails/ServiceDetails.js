@@ -1,17 +1,11 @@
 import React from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
 import { useParams } from 'react-router';
+import useData from '../Hooks/useData';
 import CourseDetailsComponent from './CourseDetailsComponent';
 
 const ServiceDetails = () => {
-    const [courses, setCourses] = useState([]);
-    useEffect(() => {
-        fetch("/FackDb.json")
-            .then(res => res.json())
-            .then(data => setCourses(data))
-    }, []);
     const params = useParams();
+    const [courses] = useData();
     const course = [];
     for (const i of courses) {
         if (i.id === parseInt(params.id)) {
